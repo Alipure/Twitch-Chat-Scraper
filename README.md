@@ -37,7 +37,6 @@ A Node.js script that scrapes chat messages from a specified Twitch.tv channel a
    cd twitch-chat-scraper
    ```
 
-```
 
    3. Install the driver
 
@@ -48,13 +47,9 @@ npm install chromedriver
 
 ```
 
-Run:
+How to run:
 
-In terminal:
+In terminal type,
 ```
-
 node twitchChat.js
-
-```
-
 ```
