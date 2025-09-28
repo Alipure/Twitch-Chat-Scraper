@@ -47,7 +47,7 @@ npm install chromedriver
 
 ```
 
-How to run:
+**How to run**:
 
 In terminal type,
 ```
