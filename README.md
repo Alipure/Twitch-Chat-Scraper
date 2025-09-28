@@ -38,7 +38,7 @@ A Node.js script that scrapes chat messages from a specified Twitch.tv channel a
    ```
 
 
-   3. Install the driver
+3. **Install the driver**
 
 ```
 
