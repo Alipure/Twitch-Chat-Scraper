@@ -52,7 +52,7 @@ npm install chromedriver
 
 **How to run**:
 
-In terminal type,
+In terminal type (for accuracy),
 ```
 node twitchChat.js
 ```
