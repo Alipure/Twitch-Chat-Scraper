@@ -10,8 +10,10 @@ A Node.js script that scrapes chat messages from a specified Twitch.tv channel a
 - 💾 Saves messages in the format: `timestamp username: message` to a text file.
 - 🔄 Automatically scrolls chat to load older messages.
 - 👥 Tracks unique messages and active users.
-- ⏳ [In Progress] Prompt for custom output file name before scraping.
-- ⏳ [In Progress] Talkative chat percentage
+- 📂 Prompt for custom output file name before scraping.
+- 🔢 Number of unique chat blocks distributed in groups from both messages and unique users
+
+total messages / unique viewers * 100 for the percentage
 
 ## Requirements 🛠️
 
