@@ -13,7 +13,6 @@ A Node.js script that scrapes chat messages from a specified Twitch.tv channel a
 - 📂 Prompt for custom output file name before scraping.
 - 🔢 Number of unique chat blocks distributed in groups from both messages and unique users
 
-total messages / unique viewers * 100 for the percentage
 
 ## Requirements 🛠️
 
